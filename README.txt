@@ -62,7 +62,7 @@ function which has the following effect on the boundary:
 
 1|
 2|  |->  1|_2_
-3|		 4| 3
+3|       4| 3
 4|
 
 After all but the final pair are welded, the program maps back to the
@@ -83,10 +83,11 @@ An example of a tree with many edges generated with weld.m
 
 snowflake.jpg
 
-A plot of the "b_1" values for each tree with 10 vertices. b_11 corresponds to the square
-of the focus of the best-fit ellipse of a given tree. We have no theorem about the limiting distribution of b_1 for large trees, but this image and similar data suggest
-uniform distribution near the origin, with either sharp or sigmoid decay at roughly 
-|x| = .5
+A plot of the "b_1" values for each tree with 10 vertices. b_11 corresponds to the
+square of the focus of the best-fit ellipse of a given tree. We have no theorem
+about the limiting distribution of b_1 for large trees, but this image and similar
+data suggest uniform distribution near the origin, with either sharp or sigmoid
+decay at roughly |x| = .5
 
 algorithms developed by:
 Joel Barnes
